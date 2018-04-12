@@ -3,7 +3,6 @@ const router = express.Router()
 
 const User = require('../models/user')
 
-// Middlewares - add if authentication needed before route
 // const checkAuth = require('../middleware/check-auth')
 
 const userController = require('../controllers/user')
