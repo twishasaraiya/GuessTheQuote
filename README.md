@@ -36,7 +36,9 @@ It is a fun quiz game which is a  progressive web app(PWA). Built during Collabo
  - Open a terminal and run the following git command:
  
  ```bash
-    git clone "url-copied"
+    $> git clone https://github.com/twishasaraiya/GuessTheQuote.git
+    $> npm install
+    $> npm start
  ```
 ## Discussion
 
