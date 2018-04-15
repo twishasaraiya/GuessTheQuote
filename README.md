@@ -5,10 +5,11 @@ It is a fun quiz game which is a  progressive web app(PWA). Built during Collabo
 # Table Of Contents
 
   1. [Features Wishlist](#features-wishlist)
-  2. [Requirements for Development](#requirements-for-development)
-  3. [Setup for Development](Setup-for-Development)
-  4. [Technology Stack](Technology-Stack)
-  5. [Contributing Guidelines](Contributing-Guidelines)
+  1. [Design Specs](#design-specs)
+  1. [Requirements for Development](#requirements-for-development)
+  1. [Setup for Development](Setup-for-Development)
+  1. [Technology Stack](Technology-Stack)
+  1. [Contributing Guidelines](Contributing-Guidelines)
 
 # Features Wishlist
 
@@ -18,6 +19,8 @@ It is a fun quiz game which is a  progressive web app(PWA). Built during Collabo
 - [ ] TextToSpeech while reading the quote
 - [ ] Share your score on Social Media (like Facebook for now)
 
+# Design Specs
+  * Font: [Gotham](https://www.wfonts.com/font/gotham)
 # Requirements for Development
 
  - node
@@ -30,7 +33,7 @@ It is a fun quiz game which is a  progressive web app(PWA). Built during Collabo
  - Fork the repository by clicking on the fork button on the top of the page. This will create a copy of this repository in your account.
  - Click on clone or download and copy the url
  - Open a terminal and run the following git command:
- ```
+ ```bash
     git clone "url copied"
  ```
 # Discussion
