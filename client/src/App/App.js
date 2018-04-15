@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import "./App.css";
 
 const App = ({ children }) => {
-  return <div className="App container">{children}</div>;
+  return <div className="App">{children}</div>;
 };
 
 App.propTypes = {
