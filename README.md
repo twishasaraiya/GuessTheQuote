@@ -37,9 +37,9 @@ It is a fun quiz game which is a  progressive web app(PWA). Built during Collabo
  
  ```bash
     $> git clone https://github.com/twishasaraiya/GuessTheQuote.git
-    $> npm install
     $> npm start
  ```
+  - Goto http://localhost:3000/( The server is running on http://localhost:3001/)
 ## Discussion
 
  - Join our Slack team ( ADD THE CHANNEL NAME)
